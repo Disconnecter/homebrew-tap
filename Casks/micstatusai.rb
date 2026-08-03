@@ -7,7 +7,7 @@ cask "micstatusai" do
   desc "Menu bar microphone input volume monitor and control"
   homepage "https://github.com/Disconnecter/MicStatusAI"
 
-  depends_on macos: ">= :sequoia"
+  depends_on macos: :sequoia
 
   app "MicStatusAI.app"
 
