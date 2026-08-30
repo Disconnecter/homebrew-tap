@@ -1,6 +1,6 @@
 cask "micstatusai" do
-  version "0.0.8"
-  sha256 "fd66cf1328980acbcb228e8159d0eb08d9b5fe592fa8126d763d96726a947f10"
+  version "0.0.9"
+  sha256 "fe879c23e0ecd5a4fd38f1698e364882caef442d9256b22d04b2a3b0a3bdbeff"
 
   url "https://github.com/Disconnecter/MicStatusAI/releases/download/v#{version}/MicStatusAI-#{version}.zip"
   name "MicStatusAI"
